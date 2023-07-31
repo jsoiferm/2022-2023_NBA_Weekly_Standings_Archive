@@ -1,1 +1,2 @@
 # NBA_Standings
+A Python Script that, after the user enters the conference, team, and week 1-25 of the 2022-2023 season, outputs the team's standing that week, as well as how many positions the team rose or fell from the previous week. All data is from the website Basketball Reference. To retrieve the team standings data, webscraping techniques were employed using the Beautiful Soup Python package. 
